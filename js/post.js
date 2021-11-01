@@ -13,7 +13,7 @@ function getPost() {
             <div class="card">
                 <div class="card-body">
                     <div class=" d-flex justify-content-end">
-                    <h6 class="text-danger">${data.id}</h6>
+                    <h6 class="text-dark">${data.id}</h6>
                     </div>
                     <h5 class="post-title mb-4">${data.title}</h5>
                     <p class="post-body">${data.body}</p>
