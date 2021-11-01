@@ -28,7 +28,7 @@ function addedPosts() {
             <div class="card h-100">
                 <div class="card-body">
                     <div class=" d-flex justify-content-end">
-                        <h6 class="text-danger">${index + 1}</h6>
+                        <h6 class="text-dark">${index + 1}</h6>
                     </div>
                     <h5 class="post-title mb-4">${e.title}</h5>
                     <p class="post-body">${e.body}</p>
