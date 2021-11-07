@@ -10,7 +10,7 @@ function getPost() {
 
         html += `
         <div>
-            <div class="card">
+            <div class="card bg-success">
                 <div class="card-body">
                     <div class=" d-flex justify-content-end">
                     <h6 class="text-dark">${data.id}</h6>
